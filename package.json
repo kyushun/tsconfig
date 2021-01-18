@@ -1,0 +1,12 @@
+{
+  "name": "@kyushun/tsconfig",
+  "version": "1.0.0",
+  "main": "tsconfig.json",
+  "author": "kyushun <27068326+kyushun@users.noreply.github.com>",
+  "peerDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
