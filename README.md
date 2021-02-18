@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-yarn add -D kyushun/tsconfig
+yarn add -D kyushun/tsconfig typescript
 touch tsconfig.json
 ```
 
